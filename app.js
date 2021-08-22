@@ -160,7 +160,7 @@ displayQuestion();
 
 // Add a countdown
 
-let time = 10;
+let time = 5;
 let quizTimeInMinutes = time * 60 * 60;
 quizTime = quizTimeInMinutes / 60;
 

@@ -157,7 +157,13 @@ img {
 @media screen and (max-width:450px) {
   .quiz-box h1 {
     
-    font-size: 1.8rem;
+    font-size: .8rem;
+    
+  }
+
+  .quiz-header #progress {
+    
+    font-size: .8rem;
     
   }
   
